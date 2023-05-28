@@ -1,0 +1,17 @@
+header{
+    background-color: blueviolet;
+}
+header p{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
+.tyr{
+    text-align: left;
+}
+body {
+    font-family: sans-serif;
+}
+footer {
+    background-color: violet;
+}
